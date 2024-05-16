@@ -1,0 +1,16 @@
+[{"model": "shop.category", "pk": 1, "fields": {"dt": "2024-05-16T00:15:48Z", "name": "A"}},
+ {"model": "shop.category", "pk": 2, "fields": {"dt": "2024-05-16T00:15:54Z", "name": "B"}},
+ {"model": "shop.category", "pk": 3, "fields": {"dt": "2024-05-16T00:15:57Z", "name": "C"}},
+ {"model": "shop.product", "pk": 1, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A1", "category": 1, "price": 10000, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 2, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A2", "category": 1, "price": 100, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 3, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A3", "category": 1, "price": 10000, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 4, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A4", "category": 1, "price": 100, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 5, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A5", "category": 1, "price": 1000, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 6, "fields": {"dt": "2024-05-16T00:16:00Z", "name": "商品A6", "category": 1, "price": 100, "release": "2024-05-09"}},
+ {"model": "shop.product", "pk": 7, "fields": {"dt": "2024-05-16T00:16:13Z", "name": "商品B1", "category": 2, "price": 5000, "release": "2024-05-10"}},
+ {"model": "shop.product", "pk": 8, "fields": {"dt": "2024-05-16T00:16:44Z", "name": "商品B2", "category": 2, "price": 300, "release": "2024-05-05"}},
+ {"model": "shop.product", "pk": 9, "fields": {"dt": "2024-05-16T00:16:44Z", "name": "商品B3", "category": 2, "price": 300, "release": "2024-05-05"}},
+ {"model": "shop.product", "pk": 10, "fields": {"dt": "2024-05-16T00:16:44Z", "name": "商品B4", "category": 2, "price": 3000, "release": "2024-05-05"}},
+ {"model": "shop.product", "pk": 11, "fields": {"dt": "2024-05-16T00:16:44Z", "name": "商品B5", "category": 2, "price": 300, "release": "2024-05-05"}},
+ {"model": "shop.product", "pk": 12, "fields": {"dt": "2024-05-16T00:16:44Z", "name": "商品B6", "category": 2, "price": 3000, "release": "2024-05-05"}}
+]
